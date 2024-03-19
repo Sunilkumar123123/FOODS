@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#div-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, lightblue, lightpink);
+    height: 100vh;
+    font-style: italic;
+
+
+    
+}
+p{
+    margin:40px 150px;
+    font-size: 20px;
+    margin-right: 150px;
+    color: #ffffff;
+    font-weight: 700;
+    
+}
